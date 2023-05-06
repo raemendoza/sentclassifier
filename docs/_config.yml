@@ -2,4 +2,4 @@ title: Using Reddit Thread Data to create a sentence classifier
 description: A technical tutorial for training online-text data to classify types of text.
 show_downloads: false
 google_analytics:
-theme: modernist
+remote_theme: pages-themes/modernist@v0.2.0
