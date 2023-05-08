@@ -1,5 +1,11 @@
 ## Using Reddit Thread Data to create a sentence classifier
 
+Licenses:
+- Apache (NLTK)
+- PRAW (BSD)
+
+See License_{name} for more information.
+
 The following is a tutorial on using PRAW to extract sample data to train a sentence classifier.
 View the turorial on www.raemendoza.github.io
 
