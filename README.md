@@ -1,5 +1,5 @@
 ## Using Reddit Thread Data to create a sentence classifier
-### Tutorial at [ramendoza.github.io](https://raemendoza.github.io)
+### Tutorial at [ramendoza.github.io](https://raemendoza.github.io/docs)
 
 
 Licenses:
