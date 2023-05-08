@@ -1,4 +1,6 @@
 ## Using Reddit Thread Data to create a sentence classifier
+### Tutorial at [ramendoza.github.io](https://raemendoza.github.io)
+
 
 Licenses:
 - Apache (NLTK)
@@ -10,10 +12,9 @@ Versions of Tools:
 - NLTK (3.8.1)
 - PRAW (7.7.0)
 
-The following is a tutorial on using PRAW to extract sample data to train a sentence classifier.
-View the tutorial on www.raemendoza.github.io
+Tutorial on using PRAW to extract sample data to train a sentence classifier.
 
-Code used for this tutorial can be found on the [repository folders](https://github.com/raemendoza/raemendoza.github.io), as well as the sample data used for the classifier.
+Code used for this tutorial can be found on the repository folders here.
 
 Tutorial by Rae Mendoza, 2023
 for Natural Language Processing Tutorial Project
