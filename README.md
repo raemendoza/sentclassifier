@@ -6,6 +6,10 @@ Licenses:
 
 See License_{name} for more information.
 
+Versions of Tools:
+- NLTK (3.8.1)
+- PRAW (7.7.0)
+
 The following is a tutorial on using PRAW to extract sample data to train a sentence classifier.
 View the turorial on www.raemendoza.github.io
 
